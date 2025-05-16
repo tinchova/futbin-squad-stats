@@ -39,7 +39,7 @@ cd futbin-squad-stats
 
 ```bash
 python -m venv venv
-.env\Scriptsctivate
+.\venv\Scripts\activate
 ```
 
 ### Instalar dependencias
