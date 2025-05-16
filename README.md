@@ -31,7 +31,7 @@ C:/webdrivers/chromedriver.exe
 ### Cloná el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/futbin-squad-stats.git
+git clone https://github.com/tinchova/futbin-squad-stats.git
 cd futbin-squad-stats
 ```
 
